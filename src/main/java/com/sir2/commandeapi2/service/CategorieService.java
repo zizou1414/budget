@@ -14,6 +14,6 @@ import com.sir2.commandeapi2.bean.Categorie;
 public interface CategorieService {
         public Categorie findByLibelleCategorie(String libelleCategorie); 
         public int creerCategorie (Categorie categorie );
-        public void deleteCategorie (String libelleCategorie);
+       // public void deleteCategorie (String libelleCategorie);
 
 }

@@ -33,10 +33,10 @@ public class CategorieRest {
         return categorieService.creerCategorie(categorie);
     }
 
-    public void deleteCategorie(String libelleCategorie) {
-        categorieService.deleteCategorie(libelleCategorie);
-    }
-    
+//    public void deleteCategorie(String libelleCategorie) {
+//        categorieService.deleteCategorie(libelleCategorie);
+//    }
+//    
     
 
     public CategorieService getCategorieService() {

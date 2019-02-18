@@ -62,10 +62,11 @@ private ProduitService produitService ;
             return 1;
         }
     }
-
-    @Override
-    public void deleteCategorie(String libelleCategorie) {
-        Liste<Produit> produits =
-    }
-    
+//
+//    @Override
+//    public void deleteCategorie(String libelleCategorie) {
+//        Liste<Produit> produits =
+//    }
+//    
+//}
 }
